@@ -1,0 +1,48 @@
+New log file opened at Tue Jun 16 14:12:14 COT 2015 by 8216@ESTACIONP93
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: E:\SCALA\sample\hello-slick-2.0\.sbtserver\connections\master.log))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,sbt client logs are in: E:\SCALA\sample\hello-slick-2.0\.sbtserver\connections\activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b.log))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: E:\SCALA\sample\hello-slick-2.0\.sbtserver\master.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Got request: ListenToBuildChange()
+Reading next message from client.
+Got request: SendSyntheticBuildChanged()
+Reading next message from client.
+Got request: KeyLookupRequest(discoveredMainClasses)
+Reading next message from client.
+Got request: KeyLookupRequest(mainClass)
+Reading next message from client.
+Got request: KeyLookupRequest(echo:echoTraceSupported)
+Reading next message from client.
+Got request: KeyLookupRequest(echo:echoPlayVersionReport)
+Reading next message from client.
+Got request: KeyLookupRequest(echo:echoAkkaVersionReport)
+Reading next message from client.
+Got request: KeyLookupRequest(echo:echoTracePlayVersion)
+Reading next message from client.
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> --initialize))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: (3,ReceivedResponse())
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> initialize))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> onFailure load-failed))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> boot))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> reload))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,[Loading] Scanning directory C:\Users\wilmar.pino\.sbt\0.13\plugins))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,[Loading] Found non-root projects ))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,[Loading] Done in C:\Users\wilmar.pino\.sbt\0.13\plugins, returning: ()))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))))))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,sorting: ns: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: sorting:: found: List(sbt.plugins.CorePlugin) not found List(sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: sorting:: found: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin) not found List(sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: sorting:: found: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin) not found List(sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: sorting:: found: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin) not found List()))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,  :: sorted deduced result: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,[Loading] Done in C:\Users\wilmar.pino\.sbt\0.13\plugins, returning: (global-plugins)))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogTrace(IllegalArgumentException,URI has an authority component))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(error,java.lang.IllegalArgumentException: URI has an authority component))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(error,Use 'last' for the full log.))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> load-failed))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(error,Failed to load project.))
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: BuildFailedToLoad()
+Sending msg to client activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b: DetachedLogEvent(LogMessage(debug,> server-wait-for-reboot))

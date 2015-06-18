@@ -1,0 +1,7 @@
+New log file opened at Tue Jun 16 14:12:14 COT 2015 by 8216@ESTACIONP93
+Taking next connection to: 59446
+New client attempting to connect on port: 59447-59446
+  Address = /192.168.2.78:59446
+This client on port 59447 has uuid 9b5b28d0-c86c-45e0-b111-7d7ba91ee88b configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-9b5b28d0-c86c-45e0-b111-7d7ba91ee88b
+Taking next connection to: 59446
